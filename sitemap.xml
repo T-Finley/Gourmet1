@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://gourmet.com/index.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gourmet.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -32,18 +32,18 @@
     </image:image>
   </url>
   <url>
-    <loc>http://gourmet.com/our-recipe.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <loc>http://gourmet.com/investors.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -56,9 +56,6 @@
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/tenpct.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/phone.png</image:loc>
@@ -74,22 +71,18 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://gourmet.com/contact.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <loc>http://gourmet.com/home-buyers.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gourmet.com/phone/contact.html"/>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gourmet.com/images/mailbox.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -109,56 +102,23 @@
     <image:image>
       <image:loc>http://gourmet.com/images/email2.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://gourmet.com/home-sellers.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/facebook.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/tenpct.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/phone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/email2.png</image:loc>
+      <image:loc>http://gourmet.com/images/cya_foil_transp%20logo-put%20your%20logo%20here.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gourmet.com/hire-us.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -173,7 +133,16 @@
       <image:loc>http://gourmet.com/images/email.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://gourmet.com/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://gourmet.com/images/investors.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/marketing.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/email2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/sellers.jpg</image:loc>
@@ -181,65 +150,20 @@
     <image:image>
       <image:loc>http://gourmet.com/images/buyers.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/phone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/email2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/marketing.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://gourmet.com/home-buyers.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <loc>http://gourmet.com/our-recipe.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/facebook.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/cya_foil_transp%20logo-put%20your%20logo%20here.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/phone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/email2.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://gourmet.com/investors.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -258,21 +182,24 @@
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/email2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/tenpct.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://gourmet.com/meet-tony.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -285,6 +212,9 @@
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/phone.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/magritteish.png</image:loc>
@@ -292,15 +222,15 @@
     <image:image>
       <image:loc>http://gourmet.com/images/bowler_suit.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/phone.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://gourmet.com/communities.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <loc>http://gourmet.com/home-sellers.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
@@ -308,7 +238,40 @@
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/facebook.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/email2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/tenpct.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gourmet.com/communities.html</loc>
+    <lastmod>2018-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
       <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -331,17 +294,17 @@
   </url>
   <url>
     <loc>http://gourmet.com/marketing.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
@@ -363,14 +326,51 @@
     </image:image>
   </url>
   <url>
-    <loc>http://gourmet.com/assets/bk_video.mp4</loc>
-    <lastmod>2018-01-22</lastmod>
+    <loc>http://gourmet.com/contact.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gourmet.com/phone/contact.html"/>
+    <image:image>
+      <image:loc>http://gourmet.com/images/youtube.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/logologo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/adarologo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/twitter.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/facebook.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/email2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gourmet.com/images/mailbox.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://gourmet.com/assets/bk_mem.mp4</loc>
     <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://gourmet.com/assets/bk_video.mp4</loc>
+    <lastmod>2018-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
